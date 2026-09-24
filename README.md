@@ -1,2 +1,5 @@
-# wissen-kompakt-legal
-Terms of Service &amp; Privacy Policy for Wissen Kompakt
+# Kuriositätenwelt
+
+Öffentliche Web-Oberfläche, OAuth-Rücksprungseite, Nutzungsbedingungen und
+Datenschutzerklärung für den privaten TikTok-Entwurfs-Uploader von
+Kuriositätenwelt.
